@@ -54,7 +54,12 @@ Responds to request from the frontend with data based on the endpoint they are c
 ###############################################
 
 # Project Title: 
+## Community Finder
 
 # Purpose: 
+## To help Memphians find or start a community
 
 # Team Members: 
+## Caleb
+## Ethan
+## Cunningham
